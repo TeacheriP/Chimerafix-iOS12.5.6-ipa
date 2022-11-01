@@ -1,4 +1,4 @@
-# Chimerafix
+# ChimerafixiOS12.5.6
 
 تنويه! هذا التعديل غير رسمي من مطور جيلبريك Chimera . قبل استخدام هذا المشروع Chimerafix ipa 12.5.6 لو قمت بتحميل جيلبريك Chimera 1.6.4 عن طريق الموقع الرسمي هذا 
 ‏‪https://chimera.coolstar.org/
