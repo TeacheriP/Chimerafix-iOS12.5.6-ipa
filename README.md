@@ -8,5 +8,4 @@
 قمت بإستخدام هذا المشروع 
 ‏‪https://github.com/mineek/chimerafix
  لكي يستطيع الجميع تفعيل جيلبريك 
-‏Chimerafix 12.5.6 
-على الاصدار iOS12.5.6
+‏Chimerafix 12.5.6 على الاصدار iOS12.5.6
