@@ -11,3 +11,4 @@
  لكي يستطيع الجميع تفعيل جيلبريك 
 ‏Chimerafix 12.5.6 على الاصدار iOS12.5.6
 
+https://github.com/TeacheriP/Chimerafix-iOS12.5.6-ipa/blob/5623fd909cf53bfabb7bec9f4f151bf670561574/FEBFE960-27AB-45C9-88D5-AD195A391644.jpeg
